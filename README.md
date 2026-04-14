@@ -6,12 +6,12 @@
 
 ### *The World's Largest AI Agent Skill Library — 50,000+ Expert Skills*
 
-[![npm version](https://img.shields.io/npm/v/omni-skills-forge?style=for-the-badge&color=FF6B6B&logo=npm&logoColor=white)](https://www.npmjs.com/package/omni-skills-forge)
-[![npm downloads](https://img.shields.io/npm/dm/omni-skills-forge?style=for-the-badge&color=4ECDC4&logo=npm&logoColor=white)](https://www.npmjs.com/package/omni-skills-forge)
-[![npm total downloads](https://img.shields.io/npm/dt/omni-skills-forge?style=for-the-badge&color=FF9F43&logo=npm&logoColor=white)](https://www.npmjs.com/package/omni-skills-forge)
+[![npm version](https://img.shields.io/npm/v/@theihtisham/omni-skills-forge?style=for-the-badge&color=FF6B6B&logo=npm&logoColor=white)](https://www.npmjs.com/package/@theihtisham/omni-skills-forge)
+[![npm downloads](https://img.shields.io/npm/dm/@theihtisham/omni-skills-forge?style=for-the-badge&color=4ECDC4&logo=npm&logoColor=white)](https://www.npmjs.com/package/@theihtisham/omni-skills-forge)
+[![npm total downloads](https://img.shields.io/npm/dt/@theihtisham/omni-skills-forge?style=for-the-badge&color=FF9F43&logo=npm&logoColor=white)](https://www.npmjs.com/package/@theihtisham/omni-skills-forge)
 [![GitHub Stars](https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=for-the-badge&color=FFE66D&logo=github&logoColor=black)](https://github.com/theihtisham/omni-skills-forge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Node Version](https://img.shields.io/node/v/omni-skills-forge?style=for-the-badge&color=68D391&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Node Version](https://img.shields.io/node/v/@theihtisham/omni-skills-forge?style=for-the-badge&color=68D391&logo=node.js&logoColor=white)](https://nodejs.org)
 
 <br/>
 
@@ -20,7 +20,7 @@
 <br/>
 
 ```bash
-npx omni-skills-forge install --all
+npx @theihtisham/omni-skills-forge install --all
 ```
 
 *One command. 50,000+ skills. Every AI coding tool. Zero configuration.*
@@ -59,10 +59,10 @@ The result: your AI stops giving you beginner advice and starts thinking like a 
 
 ```bash
 # One-click install (recommended)
-npx omni-skills-forge install --all
+npx @theihtisham/omni-skills-forge install --all
 
 # Or install globally
-npm install -g omni-skills-forge
+npm install -g @theihtisham/omni-skills-forge
 
 # Then use anywhere
 osf install --all
@@ -70,7 +70,7 @@ osf dashboard
 osf doctor
 ```
 
-**npm Package:** [https://www.npmjs.com/package/omni-skills-forge](https://www.npmjs.com/package/omni-skills-forge)
+**npm Package:** [https://www.npmjs.com/package/@theihtisham/omni-skills-forge](https://www.npmjs.com/package/@theihtisham/omni-skills-forge)
 
 ---
 
@@ -85,7 +85,7 @@ Every skill is crafted at beginner / intermediate / advanced / expert levels acr
 
 ### One-Click Install
 ```bash
-npx omni-skills-forge install --all
+npx @theihtisham/omni-skills-forge install --all
 ```
 All skills installed across all your detected AI tools instantly.
 
@@ -127,7 +127,7 @@ Export skills to JSON/CSV/Markdown. Uninstall with one command.
 ### Option 1 — Install Everything (Recommended)
 
 ```bash
-npx omni-skills-forge install --all
+npx @theihtisham/omni-skills-forge install --all
 ```
 
 Detects all your AI coding tools and installs all 50,000+ skills automatically.
@@ -137,7 +137,7 @@ Detects all your AI coding tools and installs all 50,000+ skills automatically.
 ### Option 2 — Interactive Mode (Choose What You Want)
 
 ```bash
-npx omni-skills-forge
+npx @theihtisham/omni-skills-forge
 ```
 
 Launches the interactive TUI where you can:
@@ -152,7 +152,7 @@ Launches the interactive TUI where you can:
 ### Option 3 — Install Globally First
 
 ```bash
-npm install -g omni-skills-forge
+npm install -g @theihtisham/omni-skills-forge
 
 # Then use anywhere:
 osf install --all
@@ -169,10 +169,10 @@ osf doctor
 
 ```bash
 # Install only backend skills
-npx omni-skills-forge install --category backend
+npx @theihtisham/omni-skills-forge install --category backend
 
 # Install only AI/ML skills
-npx omni-skills-forge install --category ai-ml
+npx @theihtisham/omni-skills-forge install --category ai-ml
 
 # Install by tag
 osf install --tag react
@@ -434,7 +434,7 @@ Examples:
 ## Programmatic Usage
 
 ```javascript
-import { OmniInstaller, OmniDashboard, OmniDoctor } from 'omni-skills-forge';
+import { OmniInstaller, OmniDashboard, OmniDoctor } from '@theihtisham/omni-skills-forge';
 
 const installer = new OmniInstaller();
 
@@ -509,7 +509,7 @@ git push origin v2.1.0
 
 Users can stay up-to-date:
 ```bash
-npm update -g omni-skills-forge
+npm update -g @theihtisham/omni-skills-forge
 ```
 
 ---

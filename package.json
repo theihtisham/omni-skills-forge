@@ -1,5 +1,5 @@
 {
-  "name": "omni-skills-forge",
+  "name": "@theihtisham/omni-skills-forge",
   "version": "2.1.1",
   "description": "50,000+ expert AI agent skills for Claude Code, Kilo, Cline, Opencode, Cursor & Windsurf — visual dashboard, single-click install, doctor, export",
   "main": "src/index.js",
