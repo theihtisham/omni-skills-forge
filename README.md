@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Omni Skills Forge Banner" width="100%">
+<img src="assets/Screenshot 2026-04-13 204647.png" alt="Omni Skills Forge Banner" width="100%">
 
 # Omni Skills Forge
 
