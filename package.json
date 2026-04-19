@@ -61,7 +61,7 @@
     "cli-table3": "^0.6.4",
     "glob": "^10.3.10",
     "js-yaml": "^4.1.0",
-    "commander": "^12.0.0",
+    "commander": "^14.0.3",
     "boxen": "^7.1.1",
     "gradient-string": "^2.0.2",
     "fuzzy": "^0.1.3",
