@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/Banner.png" alt="Omni Skills Forge Banner" width="100%">
-
+<a href="https://trendshift.io/repositories/25944" target="_blank"><img src="https://trendshift.io/api/badge/repositories/25944" alt="lsdefine%2FGenericAgent | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 # Omni Skills Forge
 
 ### *The World's Largest AI Agent Skill Library — 50,000+ Expert Skills*
